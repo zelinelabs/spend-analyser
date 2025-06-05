@@ -1,0 +1,54 @@
+This guide will walk you through the steps to set up and run the Spend Analyzer Dashboard project. Follow these instructions carefully.
+
+Step 1: Install XAMPP
+
+XAMPP is required to set up the MySQL database for this project.
+	1.	Download XAMPP: XAMPP Download Link 
+	2.	Install XAMPP and start the Apache and MySQL modules from the XAMPP control panel.
+
+
+Step 2: Set Up the Database
+
+	1.	Open phpMyAdmin:
+	•	Open your browser and go to http://localhost/phpmyadmin.
+	2.	Create a Database:
+	•	Click on the New button in phpMyAdmin.
+	•	Name the database user_auth and click Create.
+	3.	Import the SQL File:
+	•	Click on the Import tab within the user_auth database.
+	•	Click on the Choose File button and select the provided user_auth.sql file.
+	•	Click Go to import the tables and data.
+
+Step 3: Install Python and Required Libraries
+
+	1.	Install Python:
+	•	Download and install Python from the official Python website.
+	2.	Install Required Libraries:
+	•	Open a terminal or command prompt and run the following commands to install the necessary Python packages:
+        pip install flask
+        pip install mysql-connector-python
+        matplotlib   
+
+Step 4: Run the Application
+
+	1.	Navigate to the Project Directory:
+	•	Open a terminal or command prompt and navigate to the folder where the project files are located:
+        cd /path/to/project
+        and run file python app.py
+
+
+About Zeline Projects
+
+Zeline Projects is dedicated to helping students and professionals build industry-relevant skills through innovative and practical project-based learning. Our platform offers:
+	•	Real-World Projects: Gain hands-on experience by working on projects that mirror real-world challenges.
+	•	Expert Guidance: Access tutorials and guidance from industry experts.
+	•	Comprehensive Resources: Explore our library of free and paid projects across domains like web development, data analysis, machine learning, and more.
+
+Visit our website for more information and resources: https:zelineprojects.Shopping
+
+Contact Us
+
+If you encounter any issues or need support, please feel free to reach out to us:
+	•	Phone: +91-8824414850
+	•	Email: zelineprojectservices@gmail.com
+We are here to help you make the most of this project!

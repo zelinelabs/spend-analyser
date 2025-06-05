@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <style>
+        /* General styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: aliceblue;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            backdrop-filter: blur(10px);
+        }
+
+        /* Navbar styles */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .navbar {
+            display: flex;
+            gap: 15px;
+        }
+
+        .navbar a {
+            color: white;
+            background-color:red;
+            text-decoration: none;
+            font-weight: bold;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .navbar a:hover {
+            background-color: #3e8e41;
+        }
+
+        /* Marquee styles */
+        marquee {
+            background-color: #2E8B57;
+            color: white;
+            padding: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+            margin: 20px auto;
+            display: block;
+            width: 90%;
+        }
+
+        /* Main content */
+        .container {
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 800px;
+            font-size: 16px;
+            color: #333;
+            line-height: 1.5;
+            text-align: center;
+        }
+
+        h1 {
+            color: rgb(53, 51, 51);
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            margin: 10px 0;
+        }
+
+        /* Form styles */
+        form {
+            margin: 20px 0;
+        }
+
+        input[type="file"] {
+            display: block;
+            margin: 10px auto;
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        ul {
+            text-align: left;
+            margin: 20px auto;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Spend Analyzer Dashboard</h1>
+        <nav class="navbar">
+            <a href="/logout">Logout</a>
+        </nav>
+    </header>
+
+    <marquee behavior="scroll" direction="left">
+        Analyze your spending habits, track transactions, and gain insights into your finances efficiently!
+    </marquee>
+
+    <div class="container">
+        <h1>Hello, {{ username }}</h1>
+        <p>Upload your bank transactions below to generate a comprehensive financial dashboard.</p>
+
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="files[]" multiple>
+            <button type="submit">Upload and Generate Dashboard</button>
+        </form>
+
+        <h2>About the Project</h2>
+        <p>
+            The Spend Analyzer Dashboard is designed to help users track and analyze their financial transactions
+            effectively. Upload your CSV files containing transaction details, and the dashboard generates 
+            visualizations such as spending trends, transaction categories, and monthly summaries. Gain insights 
+            to make informed financial decisions and save money.
+        </p>
+        <p>
+            Features include:
+        </p>
+        <ul>
+            <li>Detailed spending analysis by category and account</li>
+            <li>Interactive charts to visualize transaction data</li>
+            <li>Downloadable merged statements</li>
+            <li>Monthly and daily transaction summaries</li>
+        </ul>
+    </div>
+</body>
+</html>

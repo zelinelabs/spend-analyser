@@ -1,0 +1,316 @@
+Date,Time,Transaction ID,Account Number (Sender),Account Name (Sender),Account Number (Receiver),Account Name (Receiver),Category,Amount,Transaction Type,Description
+2024-10-02,22:35:37,T7733262,AC55158005,Ishita,AC96934924,State Bank of India,Miscellaneous,6230.08,Credit,Auto-generated transaction details
+2024-10-02,22:35:37,T7120731,AC36385824,Ananya,AC53016456,Siddharth,Miscellaneous,7178.66,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T6587143,AC87203409,Aarav,AC46111926,Reliance Industries,Transport,4240.9,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T8641278,AC88042308,Arjun,AC78671983,Karthik,Utilities,1405.56,Credit,Auto-generated transaction details
+2024-10-02,22:35:37,T7206131,AC57062901,Maruti Suzuki,AC69947462,State Bank of India,Miscellaneous,1580.29,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T6639475,AC58381070,Aarav,AC21972025,Nikhil,Education,4413.13,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T9834076,AC47076378,Hindustan Unilever,AC20724910,Sneha,Transport,3232.17,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T1890543,AC28189099,Nikhil,AC39191077,Siddharth,Education,7787.6,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T2703634,AC81427629,Ananya,AC64810404,Maruti Suzuki,Entertainment,6411.69,Debit,Auto-generated transaction details
+2024-10-02,22:35:37,T6121072,AC93820257,Vikram,AC30490840,Adani Enterprises,Transport,7685.07,Credit,Auto-generated transaction details
+2024-10-03,22:35:37,T1859560,AC47190151,Neha,AC79581515,Aarav,Education,1004.87,Debit,Auto-generated transaction details
+2024-10-03,22:35:37,T8981722,AC13359468,Rajesh,AC16254330,Bajaj Finserv,Miscellaneous,6632.17,Debit,Auto-generated transaction details
+2024-10-03,22:35:37,T9118268,AC75657356,Bajaj Finserv,AC43376004,Larsen & Toubro,Entertainment,7322.2,Debit,Auto-generated transaction details
+2024-10-03,22:35:37,T8791379,AC71364904,Bharti Airtel,AC53706081,Maruti Suzuki,Education,5025.77,Credit,Auto-generated transaction details
+2024-10-03,22:35:37,T5789973,AC44865394,Adani Enterprises,AC99061948,Meera,Miscellaneous,493.19,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T9329726,AC77236185,Axis Bank,AC10454789,Aditi,Utilities,7771.85,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T8253081,AC71927117,Ishita,AC21583950,Aarav,Entertainment,5429.67,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T1551156,AC30920058,Akash,AC58910624,Aarav,Food,3491.81,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T1577252,AC37196867,Diya,AC56537024,Karthik,Utilities,6325.34,Credit,Auto-generated transaction details
+2024-10-04,22:35:37,T6558130,AC86600030,Nikhil,AC98466968,Arjun,Education,334.07,Credit,Auto-generated transaction details
+2024-10-04,22:35:37,T8672181,AC37963589,Priya,AC38899775,Lakshmi,Education,2770.36,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T9165963,AC22564662,Lakshmi,AC17280988,Bajaj Finserv,Miscellaneous,990.53,Credit,Auto-generated transaction details
+2024-10-04,22:35:37,T6656522,AC29572110,Tata Consultancy Services,AC63195129,Ishita,Education,6790.79,Debit,Auto-generated transaction details
+2024-10-04,22:35:37,T1961393,AC96950656,Axis Bank,AC80434284,Axis Bank,Transport,7666.73,Credit,Auto-generated transaction details
+2024-10-04,22:35:37,T6989975,AC50069951,Kabir,AC62768346,Arjun,Education,8423.31,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T2217055,AC43367299,Lakshmi,AC62103856,Reliance Industries,Transport,9088.14,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T4732416,AC86219702,Aditi,AC45624839,Sneha,Shopping,4941.96,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T6460359,AC60476681,Bajaj Finserv,AC93712521,Sneha,Education,2043.54,Credit,Auto-generated transaction details
+2024-10-05,22:35:37,T9826978,AC33700306,Meera,AC85078995,Vikram,Miscellaneous,4070.46,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T4770217,AC68070874,Nikhil,AC23225983,Larsen & Toubro,Utilities,9348.79,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T3064094,AC80198272,Aditi,AC51902754,Infosys,Transport,938.19,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T3024865,AC63724133,Pooja,AC85569935,Rohan,Entertainment,5321.42,Debit,Auto-generated transaction details
+2024-10-05,22:35:37,T3390992,AC85739385,Kabir,AC79766976,Infosys,Education,5507.29,Debit,Auto-generated transaction details
+2024-10-06,22:35:37,T8836927,AC51689625,Larsen & Toubro,AC85087270,Ananya,Utilities,6537.81,Debit,Auto-generated transaction details
+2024-10-06,22:35:37,T4513292,AC57546408,Siddharth,AC84002608,Nikhil,Utilities,5285.56,Credit,Auto-generated transaction details
+2024-10-06,22:35:37,T4777838,AC17474689,Larsen & Toubro,AC24861287,Neha,Miscellaneous,7609.44,Credit,Auto-generated transaction details
+2024-10-06,22:35:37,T6529179,AC74047577,Karthik,AC19815292,Diya,Transport,9491.8,Credit,Auto-generated transaction details
+2024-10-06,22:35:37,T3451146,AC90628970,Pooja,AC52019330,Lakshmi,Shopping,617.45,Credit,Auto-generated transaction details
+2024-10-06,22:35:37,T8144563,AC83384770,Hindustan Unilever,AC30589573,Arjun,Shopping,6714.14,Credit,Auto-generated transaction details
+2024-10-07,22:35:37,T5585174,AC83114522,Karthik,AC40498989,Lakshmi,Healthcare,7260.05,Debit,Auto-generated transaction details
+2024-10-07,22:35:37,T5964054,AC98297573,Rohan,AC55744778,Vikram,Utilities,659.82,Debit,Auto-generated transaction details
+2024-10-07,22:35:37,T6867492,AC50546432,Wipro,AC59866047,Meera,Transport,1123.93,Debit,Auto-generated transaction details
+2024-10-07,22:35:37,T1690037,AC88496762,Bajaj Finserv,AC43945907,Kabir,Education,9458.71,Credit,Auto-generated transaction details
+2024-10-08,22:35:37,T3323510,AC60779760,Axis Bank,AC31526346,Nikhil,Miscellaneous,8040.55,Debit,Auto-generated transaction details
+2024-10-08,22:35:37,T6073001,AC97159152,Hindustan Unilever,AC12101281,Neha,Healthcare,4777.32,Credit,Auto-generated transaction details
+2024-10-09,22:35:37,T9026274,AC10599983,Rajesh,AC52864156,Lakshmi,Transport,7387.84,Credit,Auto-generated transaction details
+2024-10-09,22:35:37,T5326097,AC97173186,Axis Bank,AC23371029,Ananya,Miscellaneous,1208.62,Debit,Auto-generated transaction details
+2024-10-09,22:35:37,T8732734,AC36639846,Nikhil,AC47510552,Rohan,Shopping,3019.19,Credit,Auto-generated transaction details
+2024-10-09,22:35:37,T6824647,AC12760619,Neha,AC58833119,Bharti Airtel,Entertainment,8012.39,Credit,Auto-generated transaction details
+2024-10-10,22:35:37,T9500198,AC29027346,Lakshmi,AC32904973,Akash,Healthcare,6341.43,Debit,Auto-generated transaction details
+2024-10-10,22:35:37,T5654421,AC24939859,Mahindra & Mahindra,AC17526933,ICICI Bank,Education,2081.89,Debit,Auto-generated transaction details
+2024-10-10,22:35:37,T1908985,AC55305395,Vikram,AC28776972,Nikhil,Education,7042.05,Debit,Auto-generated transaction details
+2024-10-11,22:35:37,T2291160,AC29858487,Rajesh,AC49008347,Meera,Education,3984.67,Debit,Auto-generated transaction details
+2024-10-11,22:35:37,T5674720,AC59601996,Ananya,AC53610941,Reliance Industries,Miscellaneous,5417.4,Credit,Auto-generated transaction details
+2024-10-11,22:35:37,T9478554,AC19787515,Arjun,AC40993486,Diya,Education,2313.99,Credit,Auto-generated transaction details
+2024-10-11,22:35:37,T8279973,AC23503655,Adani Enterprises,AC87218725,Aditi,Healthcare,5108.76,Credit,Auto-generated transaction details
+2024-10-11,22:35:37,T1992051,AC52779285,Ishita,AC97357780,Axis Bank,Shopping,6001.35,Credit,Auto-generated transaction details
+2024-10-11,22:35:37,T3084702,AC67133818,Arjun,AC28538503,Infosys,Education,3064.94,Debit,Auto-generated transaction details
+2024-10-11,22:35:37,T1513238,AC95798655,Adani Enterprises,AC76959640,Wipro,Utilities,4229.56,Debit,Auto-generated transaction details
+2024-10-11,22:35:37,T7324535,AC57915191,ICICI Bank,AC82507421,Axis Bank,Entertainment,3676.24,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T5284662,AC77045016,Rohan,AC28710953,Akash,Education,1980.01,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T4064953,AC85108939,Rajesh,AC83072737,Bajaj Finserv,Shopping,6657.46,Credit,Auto-generated transaction details
+2024-10-12,22:35:37,T1322641,AC25394760,Aditi,AC94393205,Akash,Utilities,2393.67,Credit,Auto-generated transaction details
+2024-10-12,22:35:37,T6719248,AC31888631,Kabir,AC63398065,Meera,Shopping,7013.26,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T2958975,AC16574796,Axis Bank,AC33307583,Priya,Transport,8722.35,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T5691715,AC48603273,Rohan,AC67604215,Ananya,Utilities,2686.12,Credit,Auto-generated transaction details
+2024-10-12,22:35:37,T9072762,AC50928319,Ishita,AC10259674,Vikram,Entertainment,9339.2,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T1061108,AC87690825,Maruti Suzuki,AC56946071,Nikhil,Utilities,4857.31,Debit,Auto-generated transaction details
+2024-10-12,22:35:37,T4608444,AC41496258,Diya,AC92977691,Wipro,Shopping,3646.21,Debit,Auto-generated transaction details
+2024-10-13,22:35:37,T4160515,AC48917698,Kabir,AC68612721,State Bank of India,Education,6903.9,Debit,Auto-generated transaction details
+2024-10-14,22:35:37,T7126383,AC34190665,Reliance Industries,AC42781175,Mahindra & Mahindra,Food,5026.69,Credit,Auto-generated transaction details
+2024-10-15,22:35:37,T1022242,AC26636992,Akash,AC76627593,Ananya,Healthcare,4599.16,Credit,Auto-generated transaction details
+2024-10-16,22:35:37,T6218792,AC88909563,Adani Enterprises,AC62084477,Meera,Education,8662.81,Debit,Auto-generated transaction details
+2024-10-16,22:35:37,T2430287,AC78176933,Wipro,AC97355151,Rohan,Transport,8751.77,Debit,Auto-generated transaction details
+2024-10-16,22:35:37,T4351801,AC83163324,HDFC Bank,AC78523262,Arjun,Entertainment,5836.29,Debit,Auto-generated transaction details
+2024-10-16,22:35:37,T5024212,AC23387481,Wipro,AC78784396,Siddharth,Shopping,6337.22,Debit,Auto-generated transaction details
+2024-10-16,22:35:37,T5736511,AC27338777,Tata Consultancy Services,AC85560835,Wipro,Food,447.95,Debit,Auto-generated transaction details
+2024-10-17,22:35:37,T1857826,AC20644086,ICICI Bank,AC95978230,Adani Enterprises,Healthcare,5908.37,Credit,Auto-generated transaction details
+2024-10-17,22:35:37,T1852871,AC44502286,Diya,AC77315585,Sneha,Transport,9995.37,Credit,Auto-generated transaction details
+2024-10-17,22:35:37,T9445550,AC78962141,Sneha,AC57076421,Bharti Airtel,Food,9107.62,Credit,Auto-generated transaction details
+2024-10-17,22:35:37,T8610262,AC21637998,Neha,AC34504209,Wipro,Healthcare,287.13,Debit,Auto-generated transaction details
+2024-10-18,22:35:37,T9011717,AC95910235,Karthik,AC88298576,Meera,Food,1827.7,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T4917864,AC55221078,Reliance Industries,AC20278649,Neha,Entertainment,5545.19,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T3690451,AC96237201,Arjun,AC81403398,Hindustan Unilever,Entertainment,9686.5,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T8915975,AC80686653,Nikhil,AC68254902,Bajaj Finserv,Healthcare,4208.25,Debit,Auto-generated transaction details
+2024-10-18,22:35:37,T3002950,AC71137419,HDFC Bank,AC97721941,Diya,Shopping,1909.65,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T3541258,AC67164007,Infosys,AC23343873,Pooja,Utilities,685.64,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T2923268,AC85948950,Bharti Airtel,AC83589549,Siddharth,Transport,849.28,Debit,Auto-generated transaction details
+2024-10-18,22:35:37,T5953168,AC57409659,Ishita,AC74553556,Infosys,Food,7786.69,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T8722997,AC44271744,Diya,AC87500637,Neha,Food,3564.27,Credit,Auto-generated transaction details
+2024-10-18,22:35:37,T2500502,AC21798613,Rohan,AC37459628,Adani Enterprises,Utilities,3613.88,Debit,Auto-generated transaction details
+2024-10-19,22:35:37,T6158926,AC81382590,Tata Consultancy Services,AC44210627,Maruti Suzuki,Healthcare,173.94,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T6538642,AC50140256,Reliance Industries,AC91390331,Wipro,Food,2394.29,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T8193461,AC54728167,Hindustan Unilever,AC43025234,Akash,Food,6383.57,Debit,Auto-generated transaction details
+2024-10-19,22:35:37,T4320563,AC91906071,Reliance Industries,AC69362009,Adani Enterprises,Education,510.81,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T9513256,AC74555251,Vikram,AC59900743,Nikhil,Food,3148.51,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T4692447,AC78945755,Larsen & Toubro,AC53032908,ICICI Bank,Miscellaneous,2084.56,Debit,Auto-generated transaction details
+2024-10-19,22:35:37,T7724129,AC94839065,Mahindra & Mahindra,AC60013243,Ananya,Transport,7234.37,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T9651269,AC25908529,ICICI Bank,AC45228596,Nikhil,Education,2595.53,Debit,Auto-generated transaction details
+2024-10-19,22:35:37,T9105036,AC52010934,Nikhil,AC90936722,Ishita,Healthcare,6176.18,Credit,Auto-generated transaction details
+2024-10-19,22:35:37,T4223337,AC39853744,ICICI Bank,AC25785465,Reliance Industries,Miscellaneous,2519.52,Debit,Auto-generated transaction details
+2024-10-20,22:35:37,T8187033,AC61136843,Bajaj Finserv,AC85372199,Lakshmi,Shopping,4184.21,Debit,Auto-generated transaction details
+2024-10-20,22:35:37,T7316570,AC89217656,Lakshmi,AC36806494,State Bank of India,Shopping,3239.53,Credit,Auto-generated transaction details
+2024-10-20,22:35:37,T9986951,AC98888647,Karthik,AC47049768,Rajesh,Utilities,9156.57,Debit,Auto-generated transaction details
+2024-10-21,22:35:37,T9216589,AC33034158,Hindustan Unilever,AC13108795,Aditi,Shopping,4397.25,Credit,Auto-generated transaction details
+2024-10-21,22:35:37,T5328921,AC58987226,Axis Bank,AC27292613,Bajaj Finserv,Shopping,4466.69,Debit,Auto-generated transaction details
+2024-10-21,22:35:37,T1376782,AC45304950,Diya,AC84795727,Arjun,Transport,6809.6,Debit,Auto-generated transaction details
+2024-10-21,22:35:37,T6434138,AC29579907,Mahindra & Mahindra,AC10117884,Nikhil,Food,647.66,Credit,Auto-generated transaction details
+2024-10-21,22:35:37,T6463351,AC74821833,State Bank of India,AC10990450,Hindustan Unilever,Shopping,6083.53,Credit,Auto-generated transaction details
+2024-10-21,22:35:37,T5851177,AC25179194,Lakshmi,AC29318201,HDFC Bank,Miscellaneous,569.75,Credit,Auto-generated transaction details
+2024-10-21,22:35:37,T8859062,AC27495766,Lakshmi,AC85864621,Kabir,Utilities,4778.81,Debit,Auto-generated transaction details
+2024-10-22,22:35:37,T8244160,AC96698592,Vikram,AC11266321,Axis Bank,Education,9065.81,Credit,Auto-generated transaction details
+2024-10-23,22:35:37,T1220019,AC60902906,Kabir,AC54938524,Lakshmi,Transport,383.74,Debit,Auto-generated transaction details
+2024-10-23,22:35:37,T5263460,AC33913955,Larsen & Toubro,AC72341522,Priya,Miscellaneous,2836.83,Debit,Auto-generated transaction details
+2024-10-23,22:35:37,T7223284,AC67728918,Aarav,AC62786353,Bajaj Finserv,Shopping,8999.91,Credit,Auto-generated transaction details
+2024-10-23,22:35:37,T2475086,AC80255443,Lakshmi,AC82179686,Arjun,Entertainment,3063.3,Credit,Auto-generated transaction details
+2024-10-24,22:35:37,T8702631,AC22856936,Aditi,AC22565440,Neha,Healthcare,3071.33,Debit,Auto-generated transaction details
+2024-10-24,22:35:37,T9108457,AC89064058,Meera,AC96862428,Mahindra & Mahindra,Education,5836.7,Credit,Auto-generated transaction details
+2024-10-24,22:35:37,T3065800,AC71634445,Hindustan Unilever,AC51707374,Adani Enterprises,Food,2829.29,Debit,Auto-generated transaction details
+2024-10-24,22:35:37,T6838583,AC82165837,Kabir,AC80220792,Hindustan Unilever,Food,1813.5,Debit,Auto-generated transaction details
+2024-10-24,22:35:37,T4406755,AC31081012,Pooja,AC61925207,Aditi,Healthcare,717.53,Debit,Auto-generated transaction details
+2024-10-24,22:35:37,T4143207,AC32081482,Maruti Suzuki,AC31244573,Karthik,Utilities,6960.7,Debit,Auto-generated transaction details
+2024-10-25,22:35:37,T7686864,AC62464227,Akash,AC60713067,Larsen & Toubro,Transport,1664.08,Debit,Auto-generated transaction details
+2024-10-26,22:35:37,T1466203,AC96752002,Hindustan Unilever,AC63256753,Mahindra & Mahindra,Healthcare,3989.37,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T2223912,AC50750642,ICICI Bank,AC71190782,Maruti Suzuki,Healthcare,954.36,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T5601750,AC93236224,Aarav,AC97863872,Infosys,Education,961.09,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T7089494,AC26483665,Maruti Suzuki,AC16315805,Priya,Utilities,4181.01,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T3628192,AC38793375,Arjun,AC34056640,Meera,Entertainment,4870.93,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T6183423,AC89599155,Reliance Industries,AC94163405,Mahindra & Mahindra,Food,5813.44,Debit,Auto-generated transaction details
+2024-10-27,22:35:37,T9086530,AC16317021,Siddharth,AC17062582,Diya,Food,6916.57,Credit,Auto-generated transaction details
+2024-10-27,22:35:37,T2438332,AC62506424,Maruti Suzuki,AC75373633,Tata Consultancy Services,Healthcare,931.5,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T8349607,AC74550212,Lakshmi,AC15824583,Larsen & Toubro,Miscellaneous,276.16,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T3630702,AC52884448,Maruti Suzuki,AC38202756,Wipro,Utilities,1194.75,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T8851038,AC88397036,Pooja,AC23308298,Sneha,Utilities,6107.08,Credit,Auto-generated transaction details
+2024-10-28,22:35:37,T7286104,AC92327823,Hindustan Unilever,AC52914323,Mahindra & Mahindra,Healthcare,1573.3,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T3196665,AC50999790,Bajaj Finserv,AC61444725,Hindustan Unilever,Education,4473.64,Credit,Auto-generated transaction details
+2024-10-28,22:35:37,T1614345,AC93904248,Sneha,AC21676398,Larsen & Toubro,Miscellaneous,5239.66,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T1317483,AC88516459,Wipro,AC89006932,Aditi,Utilities,3543.34,Credit,Auto-generated transaction details
+2024-10-28,22:35:37,T5974333,AC70129165,Hindustan Unilever,AC39544120,Sneha,Healthcare,2214.43,Debit,Auto-generated transaction details
+2024-10-28,22:35:37,T8490768,AC64878827,Neha,AC75478473,Priya,Food,5519.06,Credit,Auto-generated transaction details
+2024-10-29,22:35:37,T2454810,AC14541773,Arjun,AC12078839,Siddharth,Entertainment,4712.79,Credit,Auto-generated transaction details
+2024-10-29,22:35:37,T1125187,AC84085531,Rohan,AC53856781,Lakshmi,Education,4852.76,Credit,Auto-generated transaction details
+2024-10-29,22:35:37,T3252490,AC72508411,Arjun,AC34637320,Pooja,Miscellaneous,7410.82,Credit,Auto-generated transaction details
+2024-10-29,22:35:37,T5639260,AC35603434,Priya,AC86634872,Rohan,Entertainment,692.05,Debit,Auto-generated transaction details
+2024-10-29,22:35:37,T4286552,AC50518254,Akash,AC19614544,Kabir,Transport,5466.24,Debit,Auto-generated transaction details
+2024-10-29,22:35:37,T4831062,AC62863906,Kabir,AC33007103,Nikhil,Healthcare,3684.9,Debit,Auto-generated transaction details
+2024-10-29,22:35:37,T8258036,AC32872797,Hindustan Unilever,AC63410613,Larsen & Toubro,Shopping,4728.94,Debit,Auto-generated transaction details
+2024-10-29,22:35:37,T3236045,AC10409644,Priya,AC62391951,HDFC Bank,Transport,6313.41,Credit,Auto-generated transaction details
+2024-10-29,22:35:37,T5233666,AC11510066,Lakshmi,AC41672677,Maruti Suzuki,Utilities,5772.41,Credit,Auto-generated transaction details
+2024-10-30,22:35:37,T5124780,AC59653954,Ananya,AC76097441,Siddharth,Healthcare,5719.87,Debit,Auto-generated transaction details
+2024-10-30,22:35:37,T8079856,AC13260995,Adani Enterprises,AC19464459,Aditi,Shopping,5707.48,Credit,Auto-generated transaction details
+2024-10-30,22:35:37,T2311464,AC38208025,Lakshmi,AC59612719,Bharti Airtel,Miscellaneous,3967.36,Credit,Auto-generated transaction details
+2024-10-30,22:35:37,T4077224,AC22873056,Ishita,AC15122461,Wipro,Miscellaneous,8860.57,Debit,Auto-generated transaction details
+2024-10-30,22:35:37,T8825903,AC70522118,ICICI Bank,AC28060127,HDFC Bank,Food,3619.3,Credit,Auto-generated transaction details
+2024-10-31,22:35:37,T4437287,AC86655232,Reliance Industries,AC33949093,Hindustan Unilever,Transport,9418.03,Credit,Auto-generated transaction details
+2024-10-31,22:35:37,T7850092,AC75446554,Rajesh,AC44142344,Neha,Entertainment,4992.83,Credit,Auto-generated transaction details
+2024-10-31,22:35:37,T3408808,AC70839236,Wipro,AC89694207,Larsen & Toubro,Transport,7971.83,Credit,Auto-generated transaction details
+2024-10-31,22:35:37,T5296511,AC30076993,Bharti Airtel,AC47861349,Karthik,Transport,1917.74,Credit,Auto-generated transaction details
+2024-11-01,22:35:37,T9495601,AC27937289,Lakshmi,AC85814819,Pooja,Shopping,9780.87,Debit,Auto-generated transaction details
+2024-11-01,22:35:37,T3800109,AC21014053,Bharti Airtel,AC18160854,Maruti Suzuki,Transport,3272.72,Credit,Auto-generated transaction details
+2024-11-01,22:35:37,T9911608,AC70840065,Vikram,AC17134147,Sneha,Transport,9690.78,Credit,Auto-generated transaction details
+2024-11-01,22:35:37,T2120434,AC95700395,Siddharth,AC66623306,Bharti Airtel,Miscellaneous,2862.71,Debit,Auto-generated transaction details
+2024-11-01,22:35:37,T2805137,AC11723006,Rohan,AC73752627,ICICI Bank,Healthcare,6466.39,Credit,Auto-generated transaction details
+2024-11-01,22:35:37,T8334237,AC12544059,ICICI Bank,AC98728722,Priya,Entertainment,659.4,Debit,Auto-generated transaction details
+2024-11-02,22:35:37,T3238920,AC93237528,Vikram,AC50963765,Axis Bank,Shopping,8762.02,Credit,Auto-generated transaction details
+2024-11-02,22:35:37,T1329574,AC69024696,Arjun,AC49419237,Bajaj Finserv,Healthcare,4917.22,Credit,Auto-generated transaction details
+2024-11-02,22:35:37,T6086130,AC13505405,Vikram,AC65033383,Hindustan Unilever,Entertainment,2981.68,Debit,Auto-generated transaction details
+2024-11-02,22:35:37,T7491054,AC35912141,Ananya,AC22666158,HDFC Bank,Entertainment,6245.13,Credit,Auto-generated transaction details
+2024-11-02,22:35:37,T9329320,AC53910809,Maruti Suzuki,AC96128281,Maruti Suzuki,Food,7791.84,Debit,Auto-generated transaction details
+2024-11-02,22:35:37,T5441963,AC54664355,Reliance Industries,AC39101625,Vikram,Healthcare,126.57,Debit,Auto-generated transaction details
+2024-11-03,22:35:37,T1977473,AC64351813,Adani Enterprises,AC71756504,Mahindra & Mahindra,Miscellaneous,751.67,Debit,Auto-generated transaction details
+2024-11-03,22:35:37,T2803955,AC24027490,Hindustan Unilever,AC68736947,Neha,Entertainment,3219.82,Debit,Auto-generated transaction details
+2024-11-04,22:35:37,T9335752,AC75776963,Wipro,AC38287096,Karthik,Shopping,6475.48,Credit,Auto-generated transaction details
+2024-11-04,22:35:37,T6292167,AC20415438,Ananya,AC99882764,Lakshmi,Shopping,9589.71,Credit,Auto-generated transaction details
+2024-11-04,22:35:37,T3476649,AC65879737,Axis Bank,AC88939953,Maruti Suzuki,Entertainment,5139.13,Debit,Auto-generated transaction details
+2024-11-04,22:35:37,T3030360,AC32829393,Infosys,AC28664301,HDFC Bank,Entertainment,1729.75,Credit,Auto-generated transaction details
+2024-11-04,22:35:37,T7068944,AC72726197,Hindustan Unilever,AC64161320,Reliance Industries,Healthcare,4106.48,Credit,Auto-generated transaction details
+2024-11-04,22:35:37,T4898418,AC34614403,Larsen & Toubro,AC83386885,Rohan,Miscellaneous,2668.24,Credit,Auto-generated transaction details
+2024-11-05,22:35:37,T8639060,AC83677153,Aarav,AC32232741,Nikhil,Transport,5327.15,Debit,Auto-generated transaction details
+2024-11-05,22:35:37,T5794205,AC95484527,Ananya,AC72171442,Aarav,Healthcare,4420.78,Credit,Auto-generated transaction details
+2024-11-05,22:35:37,T3005068,AC22768239,Larsen & Toubro,AC13077036,Meera,Entertainment,9133.05,Debit,Auto-generated transaction details
+2024-11-05,22:35:37,T6642087,AC37463347,Nikhil,AC83287334,Bharti Airtel,Shopping,1379.59,Debit,Auto-generated transaction details
+2024-11-06,22:35:37,T2471090,AC60367085,Infosys,AC56370285,Rajesh,Miscellaneous,8596.0,Debit,Auto-generated transaction details
+2024-11-07,22:35:37,T7848388,AC79912065,ICICI Bank,AC86385299,Rajesh,Transport,4882.92,Debit,Auto-generated transaction details
+2024-11-07,22:35:37,T1459659,AC98007806,Pooja,AC69711437,Bajaj Finserv,Education,4049.87,Credit,Auto-generated transaction details
+2024-11-07,22:35:37,T3536951,AC18906032,Vikram,AC85931969,Sneha,Shopping,3227.4,Debit,Auto-generated transaction details
+2024-11-07,22:35:37,T9849233,AC26475962,Maruti Suzuki,AC59868363,ICICI Bank,Utilities,7200.71,Debit,Auto-generated transaction details
+2024-11-07,22:35:37,T6153229,AC71679471,Arjun,AC30154150,Akash,Shopping,9040.99,Debit,Auto-generated transaction details
+2024-11-08,22:35:37,T4894404,AC38621386,Diya,AC12588447,Ananya,Shopping,6412.26,Credit,Auto-generated transaction details
+2024-11-08,22:35:37,T9952570,AC25811011,Pooja,AC29486672,Karthik,Shopping,9057.38,Credit,Auto-generated transaction details
+2024-11-08,22:35:37,T1053119,AC76476109,Ishita,AC95219359,Lakshmi,Entertainment,334.2,Debit,Auto-generated transaction details
+2024-11-09,22:35:37,T2178156,AC94392258,Pooja,AC58327542,Akash,Utilities,4762.06,Debit,Auto-generated transaction details
+2024-11-09,22:35:37,T9344941,AC55484805,State Bank of India,AC46022792,Axis Bank,Utilities,3447.64,Credit,Auto-generated transaction details
+2024-11-09,22:35:37,T1354469,AC99477422,Lakshmi,AC44756495,Hindustan Unilever,Shopping,7987.31,Credit,Auto-generated transaction details
+2024-11-09,22:35:37,T1065661,AC37697442,Larsen & Toubro,AC99983987,Arjun,Miscellaneous,6297.82,Debit,Auto-generated transaction details
+2024-11-09,22:35:37,T9363415,AC57125742,Siddharth,AC29134351,HDFC Bank,Education,4885.36,Credit,Auto-generated transaction details
+2024-11-10,22:35:37,T1780871,AC45555089,Priya,AC20846551,Ishita,Utilities,9942.58,Credit,Auto-generated transaction details
+2024-11-10,22:35:37,T3871597,AC88211674,Hindustan Unilever,AC20496344,Karthik,Entertainment,2271.63,Credit,Auto-generated transaction details
+2024-11-10,22:35:37,T1341018,AC34677587,Siddharth,AC89589277,Kabir,Shopping,2358.22,Debit,Auto-generated transaction details
+2024-11-10,22:35:37,T9625029,AC31251958,Rajesh,AC43922893,Axis Bank,Healthcare,4558.21,Debit,Auto-generated transaction details
+2024-11-10,22:35:37,T3168507,AC12956262,Pooja,AC75842429,Rohan,Utilities,8048.24,Credit,Auto-generated transaction details
+2024-11-11,22:35:37,T5972089,AC86198998,Sneha,AC60181926,ICICI Bank,Transport,6222.29,Credit,Auto-generated transaction details
+2024-11-11,22:35:37,T8274596,AC95974014,Tata Consultancy Services,AC75411604,Tata Consultancy Services,Shopping,4160.16,Credit,Auto-generated transaction details
+2024-11-11,22:35:37,T5432999,AC25379735,Nikhil,AC86239244,ICICI Bank,Miscellaneous,2986.55,Debit,Auto-generated transaction details
+2024-11-11,22:35:37,T3324138,AC90421073,Aditi,AC46062249,Sneha,Transport,708.18,Credit,Auto-generated transaction details
+2024-11-11,22:35:37,T9183931,AC73071768,Wipro,AC50532035,Akash,Entertainment,2034.11,Credit,Auto-generated transaction details
+2024-11-11,22:35:37,T1154393,AC81067714,Aditi,AC76074385,Axis Bank,Entertainment,5198.41,Debit,Auto-generated transaction details
+2024-11-12,22:35:37,T9985088,AC37208351,Ishita,AC31468019,Pooja,Food,6388.97,Credit,Auto-generated transaction details
+2024-11-12,22:35:37,T7386649,AC24085456,Axis Bank,AC26200423,Adani Enterprises,Utilities,8117.76,Debit,Auto-generated transaction details
+2024-11-12,22:35:37,T7336587,AC48134550,Rajesh,AC99491323,Karthik,Utilities,9175.77,Credit,Auto-generated transaction details
+2024-11-12,22:35:37,T3128755,AC28580026,Infosys,AC72322837,Ananya,Transport,4789.13,Debit,Auto-generated transaction details
+2024-11-12,22:35:37,T3081008,AC68390448,Lakshmi,AC97037319,Ananya,Transport,4663.08,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T4308820,AC61537396,Mahindra & Mahindra,AC23698204,Lakshmi,Miscellaneous,6889.52,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T5792431,AC92920219,ICICI Bank,AC51992581,Tata Consultancy Services,Shopping,2131.12,Debit,Auto-generated transaction details
+2024-11-13,22:35:37,T3762266,AC37272013,Maruti Suzuki,AC57866266,Adani Enterprises,Education,6657.58,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T4663952,AC54784275,Mahindra & Mahindra,AC82203944,Meera,Shopping,7688.98,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T4474282,AC95659242,Siddharth,AC94573374,Larsen & Toubro,Entertainment,161.94,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T4363268,AC92872487,Aarav,AC32975664,Axis Bank,Utilities,3390.62,Credit,Auto-generated transaction details
+2024-11-13,22:35:37,T3805202,AC73582425,Akash,AC65128526,Bharti Airtel,Miscellaneous,274.64,Debit,Auto-generated transaction details
+2024-11-13,22:35:37,T3612366,AC28141745,Reliance Industries,AC29667575,HDFC Bank,Miscellaneous,8670.38,Credit,Auto-generated transaction details
+2024-11-14,22:35:37,T5884364,AC48270908,Infosys,AC22267316,Wipro,Miscellaneous,1880.13,Credit,Auto-generated transaction details
+2024-11-14,22:35:37,T4153613,AC73415727,Diya,AC97191693,Karthik,Food,7714.99,Debit,Auto-generated transaction details
+2024-11-15,22:35:37,T8249372,AC43183145,Infosys,AC87633790,Meera,Shopping,1202.38,Debit,Auto-generated transaction details
+2024-11-15,22:35:37,T5473777,AC37174396,Nikhil,AC20551286,Infosys,Miscellaneous,6107.52,Debit,Auto-generated transaction details
+2024-11-15,22:35:37,T1384557,AC56241927,ICICI Bank,AC27177332,Neha,Miscellaneous,8858.35,Debit,Auto-generated transaction details
+2024-11-16,22:35:37,T9063085,AC93161008,Vikram,AC25444555,Axis Bank,Food,9520.33,Debit,Auto-generated transaction details
+2024-11-16,22:35:37,T8246354,AC31253570,Adani Enterprises,AC92950426,Pooja,Miscellaneous,6563.22,Credit,Auto-generated transaction details
+2024-11-16,22:35:37,T1601911,AC35221371,Akash,AC72230607,Akash,Shopping,7024.55,Credit,Auto-generated transaction details
+2024-11-17,22:35:37,T9306831,AC52017504,Bharti Airtel,AC75223685,Priya,Education,3798.62,Credit,Auto-generated transaction details
+2024-11-17,22:35:37,T7852797,AC56572673,Aarav,AC33266385,Vikram,Utilities,5179.83,Credit,Auto-generated transaction details
+2024-11-17,22:35:37,T3808573,AC21864266,Rajesh,AC43122941,Ananya,Entertainment,3926.6,Credit,Auto-generated transaction details
+2024-11-17,22:35:37,T4154044,AC44731278,Sneha,AC95102159,Arjun,Shopping,7928.16,Debit,Auto-generated transaction details
+2024-11-18,22:35:37,T4789056,AC36012046,Akash,AC67510101,Meera,Healthcare,5851.03,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T4714210,AC31291868,Bajaj Finserv,AC27609752,Infosys,Shopping,9867.12,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T8175660,AC45852622,Adani Enterprises,AC44573130,Sneha,Miscellaneous,419.64,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T5208891,AC63241026,HDFC Bank,AC16998403,Ananya,Food,837.57,Debit,Auto-generated transaction details
+2024-11-18,22:35:37,T5184693,AC46243362,Wipro,AC90732769,Kabir,Food,4242.35,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T3795130,AC40030923,Aditi,AC11044256,Rajesh,Entertainment,1958.44,Debit,Auto-generated transaction details
+2024-11-18,22:35:37,T4021050,AC96385254,Arjun,AC88015938,Aditi,Food,5397.92,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T2613939,AC41192146,HDFC Bank,AC85333399,Nikhil,Healthcare,7096.24,Credit,Auto-generated transaction details
+2024-11-18,22:35:37,T2791329,AC34186541,Maruti Suzuki,AC76574722,Maruti Suzuki,Entertainment,1949.75,Credit,Auto-generated transaction details
+2024-11-19,22:35:37,T3972296,AC87080024,Maruti Suzuki,AC61784017,Axis Bank,Food,1557.23,Debit,Auto-generated transaction details
+2024-11-19,22:35:37,T6951095,AC26223901,Hindustan Unilever,AC82769850,Reliance Industries,Education,5724.07,Debit,Auto-generated transaction details
+2024-11-19,22:35:37,T2006766,AC13899812,Arjun,AC95005251,Neha,Entertainment,8259.8,Debit,Auto-generated transaction details
+2024-11-19,22:35:37,T5949002,AC79432618,HDFC Bank,AC14528052,Siddharth,Shopping,6091.03,Credit,Auto-generated transaction details
+2024-11-19,22:35:37,T3268726,AC62825215,Priya,AC67816943,Ananya,Food,2375.35,Debit,Auto-generated transaction details
+2024-11-19,22:35:37,T8366948,AC33073660,Ananya,AC10705401,Lakshmi,Shopping,117.93,Debit,Auto-generated transaction details
+2024-11-19,22:35:37,T1987266,AC30550083,Aditi,AC71697959,Reliance Industries,Utilities,165.5,Credit,Auto-generated transaction details
+2024-11-19,22:35:37,T1382984,AC94872140,Siddharth,AC13913305,Reliance Industries,Shopping,4398.58,Credit,Auto-generated transaction details
+2024-11-19,22:35:37,T8596400,AC35407583,Larsen & Toubro,AC99326546,Bajaj Finserv,Healthcare,9016.88,Debit,Auto-generated transaction details
+2024-11-20,22:35:37,T3220970,AC14051660,Ishita,AC85497346,Mahindra & Mahindra,Shopping,7368.24,Credit,Auto-generated transaction details
+2024-11-20,22:35:37,T4754395,AC96838574,State Bank of India,AC64449640,Diya,Healthcare,4035.1,Credit,Auto-generated transaction details
+2024-11-20,22:35:37,T7879731,AC11490086,Ananya,AC16692061,Sneha,Utilities,2003.43,Credit,Auto-generated transaction details
+2024-11-20,22:35:37,T9226227,AC66428231,Meera,AC34466011,Bajaj Finserv,Education,983.05,Credit,Auto-generated transaction details
+2024-11-20,22:35:37,T1775397,AC23026086,Meera,AC58992128,Karthik,Food,8321.66,Credit,Auto-generated transaction details
+2024-11-20,22:35:37,T2143789,AC36532794,Priya,AC99550829,Adani Enterprises,Shopping,3519.38,Credit,Auto-generated transaction details
+2024-11-21,22:35:37,T4909895,AC51238064,Rajesh,AC78884008,Ishita,Transport,2994.52,Debit,Auto-generated transaction details
+2024-11-21,22:35:37,T7147878,AC51287010,Reliance Industries,AC74490136,Larsen & Toubro,Healthcare,6817.7,Debit,Auto-generated transaction details
+2024-11-21,22:35:37,T5572996,AC33043298,Diya,AC68862326,Bharti Airtel,Healthcare,9673.63,Credit,Auto-generated transaction details
+2024-11-21,22:35:37,T9427796,AC67616979,Axis Bank,AC88748375,Ishita,Utilities,2688.96,Debit,Auto-generated transaction details
+2024-11-21,22:35:37,T4238014,AC15397877,Tata Consultancy Services,AC55862550,Adani Enterprises,Transport,3731.78,Debit,Auto-generated transaction details
+2024-11-21,22:35:37,T1455783,AC96146381,Vikram,AC97083434,Rajesh,Transport,2700.19,Credit,Auto-generated transaction details
+2024-11-21,22:35:37,T1569655,AC65689511,HDFC Bank,AC96731000,Bharti Airtel,Education,313.94,Credit,Auto-generated transaction details
+2024-11-21,22:35:37,T4918439,AC65502043,Bajaj Finserv,AC79031923,Maruti Suzuki,Entertainment,5168.68,Credit,Auto-generated transaction details
+2024-11-21,22:35:37,T2406516,AC35205710,Rajesh,AC67904419,Priya,Utilities,5296.76,Debit,Auto-generated transaction details
+2024-11-22,22:35:37,T7299298,AC97496975,Pooja,AC25442328,Reliance Industries,Education,3749.03,Credit,Auto-generated transaction details
+2024-11-22,22:35:37,T1163051,AC84488647,Lakshmi,AC11669779,HDFC Bank,Healthcare,935.7,Debit,Auto-generated transaction details
+2024-11-22,22:35:37,T2549019,AC10710335,Siddharth,AC32707211,Rohan,Utilities,9962.6,Credit,Auto-generated transaction details
+2024-11-22,22:35:37,T1949884,AC95886379,Mahindra & Mahindra,AC13734352,Adani Enterprises,Education,9256.99,Debit,Auto-generated transaction details
+2024-11-22,22:35:37,T1654707,AC60497836,Nikhil,AC84047381,Mahindra & Mahindra,Utilities,4680.75,Debit,Auto-generated transaction details
+2024-11-22,22:35:37,T5761855,AC52361405,Priya,AC16171888,Aarav,Transport,4774.88,Debit,Auto-generated transaction details
+2024-11-22,22:35:37,T6232256,AC26565318,Bharti Airtel,AC15011223,Nikhil,Entertainment,2820.35,Credit,Auto-generated transaction details
+2024-11-22,22:35:37,T7885126,AC56480062,Diya,AC81054134,Rajesh,Education,4835.48,Credit,Auto-generated transaction details
+2024-11-22,22:35:37,T1567391,AC20119378,Kabir,AC14332272,Meera,Food,5796.7,Credit,Auto-generated transaction details
+2024-11-23,22:35:37,T2908016,AC63780956,Karthik,AC47708031,Diya,Utilities,4954.66,Credit,Auto-generated transaction details
+2024-11-23,22:35:37,T3985382,AC68372390,ICICI Bank,AC30201316,Akash,Healthcare,9925.9,Debit,Auto-generated transaction details
+2024-11-23,22:35:37,T1104807,AC84260570,Akash,AC43675286,Diya,Food,8274.57,Debit,Auto-generated transaction details
+2024-11-23,22:35:37,T8498800,AC17123154,Rajesh,AC36680512,Wipro,Education,3800.66,Debit,Auto-generated transaction details
+2024-11-23,22:35:37,T9884390,AC96993398,Arjun,AC66892157,Wipro,Utilities,2098.03,Credit,Auto-generated transaction details
+2024-11-23,22:35:37,T5933051,AC87976377,Rohan,AC95444804,Pooja,Shopping,5262.37,Credit,Auto-generated transaction details
+2024-11-23,22:35:37,T6982250,AC77325385,Ishita,AC92876890,Infosys,Utilities,8405.7,Credit,Auto-generated transaction details
+2024-11-23,22:35:37,T3109875,AC95621749,Siddharth,AC55230134,Akash,Miscellaneous,3439.43,Debit,Auto-generated transaction details
+2024-11-24,22:35:37,T2270563,AC60035213,Maruti Suzuki,AC90621090,Ishita,Utilities,2271.49,Debit,Auto-generated transaction details
+2024-11-25,22:35:37,T7751120,AC89404789,Nikhil,AC35031069,Bharti Airtel,Healthcare,331.25,Debit,Auto-generated transaction details
+2024-11-25,22:35:37,T8426835,AC56126695,Ananya,AC39937433,Rohan,Entertainment,1298.93,Debit,Auto-generated transaction details
+2024-11-25,22:35:37,T6899446,AC30221995,State Bank of India,AC52775254,Aarav,Entertainment,1879.6,Credit,Auto-generated transaction details
+2024-11-25,22:35:37,T1302156,AC88711082,Aarav,AC43458147,Ananya,Healthcare,9992.63,Debit,Auto-generated transaction details
+2024-11-26,22:35:37,T3453144,AC13014551,ICICI Bank,AC50261422,Rohan,Entertainment,8032.87,Credit,Auto-generated transaction details
+2024-11-26,22:35:37,T2088362,AC64710156,Bharti Airtel,AC27179514,Nikhil,Utilities,7754.78,Debit,Auto-generated transaction details
+2024-11-27,22:35:37,T5739862,AC19321355,Tata Consultancy Services,AC89374358,Ishita,Shopping,6157.25,Debit,Auto-generated transaction details
+2024-11-27,22:35:37,T5410813,AC31013845,Aarav,AC78674268,Sneha,Entertainment,6552.69,Debit,Auto-generated transaction details
+2024-11-27,22:35:37,T9409029,AC82019917,Aarav,AC98300128,Rohan,Healthcare,842.91,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T3174875,AC11753684,Nikhil,AC31586646,Priya,Shopping,5056.95,Credit,Auto-generated transaction details
+2024-11-28,22:35:37,T7809708,AC73382597,Karthik,AC18549459,Vikram,Healthcare,1083.13,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T6988279,AC16092418,Sneha,AC15724549,ICICI Bank,Transport,4696.01,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T2305419,AC89696215,Lakshmi,AC60909374,Sneha,Education,4249.74,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T4551088,AC28245913,Bharti Airtel,AC81313084,Arjun,Miscellaneous,1187.61,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T6866335,AC47131109,Maruti Suzuki,AC90617610,Priya,Utilities,652.25,Debit,Auto-generated transaction details
+2024-11-28,22:35:37,T3212815,AC78797931,Kabir,AC88845432,Siddharth,Miscellaneous,3629.16,Debit,Auto-generated transaction details
+2024-11-29,22:35:37,T3950998,AC74440092,Diya,AC54110112,Akash,Food,2738.4,Debit,Auto-generated transaction details
+2024-11-29,22:35:37,T4309982,AC88450961,Wipro,AC32672280,Siddharth,Food,2834.2,Debit,Auto-generated transaction details
+2024-11-29,22:35:37,T1019172,AC40174469,Rohan,AC99842854,Axis Bank,Healthcare,5060.37,Debit,Auto-generated transaction details
+2024-11-29,22:35:37,T3737604,AC14850403,ICICI Bank,AC68402999,Ishita,Utilities,9118.24,Debit,Auto-generated transaction details
+2024-11-29,22:35:37,T9230981,AC63144444,Bharti Airtel,AC67163533,Larsen & Toubro,Transport,9983.26,Debit,Auto-generated transaction details
+2024-11-30,22:35:37,T9496331,AC93845789,Nikhil,AC69817101,Hindustan Unilever,Entertainment,5973.23,Credit,Auto-generated transaction details
+2024-11-30,22:35:37,T3615699,AC54226131,Karthik,AC56714599,Hindustan Unilever,Transport,8273.62,Debit,Auto-generated transaction details
+2024-11-30,22:35:37,T6912888,AC24144164,Priya,AC25353940,Infosys,Transport,3314.33,Debit,Auto-generated transaction details
+2024-11-30,22:35:37,T2345477,AC99827272,State Bank of India,AC65645444,Axis Bank,Utilities,627.65,Credit,Auto-generated transaction details
+2024-11-30,22:35:37,T1474983,AC86380055,Rohan,AC25813052,State Bank of India,Shopping,3500.38,Debit,Auto-generated transaction details
+2024-12-01,22:35:37,T2390955,AC92822795,Arjun,AC90451896,Diya,Education,4926.9,Debit,Auto-generated transaction details
+2024-12-01,22:35:37,T7140470,AC82465090,Rohan,AC92342361,Sneha,Education,7158.13,Debit,Auto-generated transaction details
+2024-12-01,22:35:37,T8728724,AC25492741,Axis Bank,AC76978179,Vikram,Utilities,1427.15,Debit,Auto-generated transaction details
+2024-12-01,22:35:37,T7181940,AC66519325,Wipro,AC72972213,Meera,Education,6070.84,Debit,Auto-generated transaction details
+2024-12-01,22:35:37,T7184094,AC63840823,Nikhil,AC49447552,Rajesh,Miscellaneous,8150.21,Credit,Auto-generated transaction details
+2024-12-01,22:35:37,T4184463,AC54212517,Aarav,AC94663692,Wipro,Food,9368.04,Credit,Auto-generated transaction details
